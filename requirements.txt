@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+warnings
+datetime
+time
+json
+os
+concurrent
+plotly
